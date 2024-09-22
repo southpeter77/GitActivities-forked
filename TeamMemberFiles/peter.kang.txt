@@ -1,0 +1,6 @@
+Peter Kang
+Please call me Peter.
+I'm in 294.
+I prefer frontend with React/Angular/Vue/NextJS/React-Native/etc with TypeScript and JavaScript.
+And prefer backend with ExpressJS/MongoDB/Flask/Spring with TypeScript, JavaScript Java and Python.
+I love contributing to make cool products.
